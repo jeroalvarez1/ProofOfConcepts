@@ -1,6 +1,6 @@
-DNI,NOMBRE,APELLIDO
-28987612,Felipe,Garcia
-36197612,Filipe,Melo
-42876145,Pedro,Pica Piedras
-42876545,Juan,Perez
-43992716,Jerónimo,Alvarez
+DNI,APELLIDO,ID1,NOMBRE
+28987612,Garcia,234234,Felipe
+36197612,Melo,,Filipe
+42876145,Pica Piedras,23343243,Pedro
+42876545,Perez,1232,Juan
+43992716,Alvarez,324234,Jerónimo
