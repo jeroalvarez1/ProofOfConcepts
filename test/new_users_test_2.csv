@@ -1,6 +1,4 @@
-DNI,APELLIDO,ID1,NOMBRE
-28987612,Garcia,234234,Felipe
-36197612,Melo,,Filipe
-42876145,Pica Piedras,23343243,Pedro
-42876545,Perez,1232,Juan
-43992716,Alvarez,324234,Jerónimo
+DNI,EMAIL,EXTID,ID1,ID2,ID3,NAME
+16054415,marceloalvarez@gmail.com,A231,[222],"[666, 888]","[100, 200]",Marcelo Alvarez
+18971623,joaquincorrea@gmail.com,A232,[444],[777],,Joaquin Correa
+43992716,jeroalvarez1@gmail.com,A233,"[111, 333]",[555],"[300, 400]",Jeronimo Alvarez

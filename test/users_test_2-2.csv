@@ -1,5 +1,4 @@
-DNI,NOMBRE,APELLIDO,ID1
-42876145,Pedro,,23343243
-42876545,Juan,Villagran,1232
-43992716,Jerónimo,,324234
-28987612,Felipe,,234234
+ID2,DNI,EMAIL,NAME,EXTID
+"[666, 888]",16054415,marceloalvarez@gmail.com,,A231
+[777],18971623,joaquincorrea@gmail.com,Joaquin Correa,A232
+[555],43992716,,,A233

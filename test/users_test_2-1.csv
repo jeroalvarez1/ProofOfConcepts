@@ -1,4 +1,4 @@
-DNI,NOMBRE,APELLIDO
-42876145,Pedro,Pica Piedras
-42876545,,Perez
-43992716,Jerónimo,Alvarez
+ID1,DNI,EMAIL,NAME,EXTID
+[222],16054415,,Marcelo Alvarez,A231
+[444],18971623,,,A232
+"[111, 333]",43992716,jeroalvarez1@gmail.com,,A233
