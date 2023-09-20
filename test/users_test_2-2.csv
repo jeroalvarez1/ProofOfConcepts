@@ -1,4 +1,4 @@
-ID2,DNI,EMAIL,NAME,EXTID
-"[666, 888]",16054415,marceloalvarez@gmail.com,,A231
-[777],18971623,joaquincorrea@gmail.com,Joaquin Correa,A232
-[555],43992716,,,A233
+ID2,DNI,EMAIL,NAME
+"[666, 888]",16054415,marceloalvarez@gmail.com,
+[777],18971623,joaquincorrea@gmail.com,Joaquin Correa
+[555],43992716,,
