@@ -1,6 +1,6 @@
 from functools import reduce
 from services.ToolsObject import ToolsObject
-
+import pandas as pd
 
 class ObjectCleaner:
 
@@ -12,7 +12,7 @@ class ObjectCleaner:
         """
         self.df_list = ToolsObject.convertCsvToDF(csv_list)  # Convierte la lista de CSV en una lista de DataFrames
 
-    def mergeRowsOfOneDataFrame(self, df_position, unique_value, id_value=None):
+    def mergeRowsOfOneDataFrame(self, df_position, unique_values, id_value=None):
         """
         Combina las filas de un DataFrame en función de un valor único y opcionalmente agrega un nuevo ID.
 
@@ -35,9 +35,28 @@ class ObjectCleaner:
                 col: 'first' for col in df.columns
             }
 
-        result_df = df.groupby(unique_value, as_index=False).agg(agg_dict)  # Combina filas por valor único
+        result = df.copy()
+        for unique_value in unique_values:
+            noNanDF = result.copy()
+            noNanDF.dropna(subset=unique_value, inplace=True)
 
-        return result_df  # Devuelve el DataFrame resultante
+            naNDF = result.copy()
+            naNDF = naNDF[naNDF[unique_value].isna()]
+
+            groupDF = noNanDF.groupby(unique_value, as_index=False, dropna=False).agg(agg_dict)
+            df_not_duplicated = pd.concat([groupDF, naNDF])
+
+            result = df_not_duplicated
+
+        # Reemplazar corchetes y comillas en la columna id_value
+        result[id_value] = result[id_value].astype(str)
+        result[id_value] = result[id_value].apply(lambda x: x.replace('[', '').replace(']', '').replace('"', ''))
+        result[id_value] = result[id_value].apply(lambda x: "[" + x + "]")
+        
+        for col_name in result.columns:
+            result = ToolsObject.convertColumToString(result, col_name) # Convierte todas las columnas a tipo string
+
+        return result
 
     def mergeRowsOfDataFrames(self, unique_value, external_id_name=None, id_begins='pwc'):
         """

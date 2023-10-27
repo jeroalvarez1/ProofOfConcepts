@@ -14,6 +14,7 @@ class ToolsObject:
         """
         df[col_name] = df[col_name].astype(str) # Convierte la columna a tipo 'str'
         df[col_name] = df[col_name].replace('nan', '') # Reemplaza 'nan' con cadena vacía
+        df[col_name] = df[col_name].replace('None', '') # Reemplaza 'None' con cadena vacía
         df[col_name] = df[col_name].str.replace(r'\.0$', '', regex=True) # Elimina '.0' al final de los valores
         return df
 
