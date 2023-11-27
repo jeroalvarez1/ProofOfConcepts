@@ -55,6 +55,7 @@ class ObjectCleaner:
         
         for col_name in result.columns:
             result = ToolsObject.convertColumToString(result, col_name) # Convierte todas las columnas a tipo string
+            # ToolsObject
 
         return result
 
@@ -82,6 +83,7 @@ class ObjectCleaner:
         if external_id_name is not None:
             # Si se proporciona un nombre de columna de ID externo, crea esa columna con valores únicos
             result_df[external_id_name] = [id_begins + str(i) for i in range(1, len(result_df) + 1)]
+            
 
         for col_name in result_df.columns:
             result_df = ToolsObject.convertColumToString(result_df, col_name) # Convierte todas las columnas a tipo string
