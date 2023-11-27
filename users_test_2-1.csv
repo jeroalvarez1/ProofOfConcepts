@@ -1,8 +1,656 @@
-ExtID,FirstName,LastName,PersonEmail,PersonHomePhone,DNI__c,ShippingAddress,PersonMailingCity,Telefono_Secundario__c,Unnamed: 8,envioNPS__c,PersonMobilePhone,EXTID2
-"[6, 8]",maria fernanda,SOLANES,mfsolanes2@gmail.com,"5,49E+12",251,,,,,,,A1
-"[9, 10]",Mercado,Libre,no-responder@mercadolibre.com,,420,,,,,,,A2
-"[5, 7]",maria,fernanda SOLANES,mfsolanes3@gmail.com,"5,49E+12",2501,,,,,,,A3
-"[1, 2]",Claudia,Silvina Anachuri,profeclaudiaanachuri@gmail.com,3885106309,32108589,,,,,,,A4
-[3],Carlos,Gonzalez,Kafego2005@hotmail.com,"5,49E+12",,,,,,,,A5
-"[11, 12]",Camila,Herrera Herrera,caamilaherrera97@icloud.com,"5,41E+11",,,,,,,,A6
-[4],Estela Gladys,Puentes,,,,,,,,,,A7
+ExtID,FirstName,LastName,PersonEmail,PersonHomePhone,DNI__c,ShippingAddress,PersonMailingCity,Telefono_Secundario__c,envioNPS__c,PersonMobilePhone,PersonMobilePhone.1,Otro_correo_electronico__c,Sentimiento_con_la_marca__c
+[729],Matías,González,0,5491130854321,,,,,,,,,Neutral
+[489],,Ropoz,0131a57a1c264ecdb266a2ed962074a4@ct.vtex.com.br,543512455164,,,,,,,,,Neutral
+[728],,Archierici,016d807c8b4f4aaf8d8ca232be5e2ba5@ct.vtex.com.br,5492216822965,,,,,,,,,Neutral
+[711],,Gomez,03dac079c1ba42738b6fcf48af14a805@ct.vtex.com.br,5491156172121,,,,,,,,,Neutral
+[22],,Olmo,06688d3e87f04e579454eeb5032aa533@ct.vtex.com.br,5491162496264,,,,,,,,,Neutral
+[434],,Varela,09dc60815c0f45ecb0f8c7181aad994f@ct.vtex.com.br,5491135855903,,,,,,,,,Neutral
+[23],,Olmo,0fee8783ca194296b16284fc83e48261@ct.vtex.com.br,5491162496264,,,,,,,,,Neutral
+[403],,tello,0ff5597ad6da4c188dc384d76e0637cb@ct.vtex.com.br,542241670665,,,,,,,,,Neutral
+[128],,girado,1112d802cefe470bb9ef8654c60825b3@ct.vtex.com.br,5492234978470,,,,,,,,,Neutral
+[208],,111552606777,111552606777,,,,,,,,,,Negativo
+[82],,Olmo,129161622522445e877284e453454970@ct.vtex.com.br,5491162496264,,,,,,,,,Neutral
+[152],,Pintos,134dacd9c97c4da78fd2e2194d48221a@ct.vtex.com.br,5491122331975,,,,,,,,,Neutral
+[16],,Olmo,1467d538e07747fb811df781780821f7@ct.vtex.com.br,5491162496264,,,,,,,,,Neutral
+[67],,Olmo,17c4e9da05224e8cbbfabaa8e7782493@ct.vtex.com.br,5491162496264,,,,,,,,,Neutral
+[86],,Gerez,185ac4f75cdb4235b4df18e7896f24a2@ct.vtex.com.br,542396621361,,,,,,,,,Neutral
+[722],,revello,197526247c61409c9bdf69874385d590@ct.vtex.com.br,5492227478560,,,,,,,,,Neutral
+[147],,Pintos,1b19d37d7a064a8bb8efc386b0524a60@ct.vtex.com.br,5491122331975,,,,,,,,,Neutral
+[14],,Olmo,1c61fb953d8f44ce9d0a571fd8a0cce7@ct.vtex.com.br,5491162496264,,,,,,,,,Neutral
+[189],Posventa,Cordoba San Martin,22posventasm@megatone.net,,,,,,,,,,Neutral
+[360],Matías,Grimaz,2309.valen@gmail.com,,38287034,La Plata  1975,Moreno,,,,,,Neutral
+[53],Elena,Valdez,24079883838321705@facebook.com,,,,,,,,,,Neutral
+[66],,Olmo,244f3d8cb9be415cb95dd0619209bff1@ct.vtex.com.br,5491162496264,,,,,,,,,Neutral
+[64],,Olmo,25c29baf5f9b49bb9a48f7e05b2dec55@ct.vtex.com.br,5491162496264,,,,,,,,,Neutral
+[8],,Giardini,2b8e0ffb25a34d2690a811504540afd3@ct.vtex.com.br,5492235769173,,,,,,,,,Neutral
+[325],RUBEN,OSCAR FRANGI,2ecb5a3cf2844bf783d2655b50ea0a4d@ct.vtex.com.br,542236811210,,,,,,,,,Neutral
+[709],,Russignan,2fb3ab8b811841e8aab3cb40b96f9610@ct.vtex.com.br,5492236348405,,,,,,,,,Neutral
+[80],,Gerez,2fcb8fdd3d2d4800a9e116a78811f2c7@ct.vtex.com.br,542396621361,,,,,,,,,Neutral
+[213],,Abraham,33494dad17bb4a058aaafe59dc4e5336@ct.vtex.com.br,541142456940,,,,,,,,,Neutral
+[71],,Olmo,3658ab3af7b7418d80304b0f527724bb@ct.vtex.com.br,5491162496264,,,,,,,,,Neutral
+[570],LOURDES,CRNCEVIC,3a67559572f5483daccbfb143fd557d3@ct.vtex.com.br,5491158631153,,,,,,,,,Neutral
+[336],ELIZABETH,VAZQUEZ,3bffd065bae84305815762d79444c351@ct.vtex.com.br,541151565161,,,,,,,,vivievazquez@gmail.com,Neutral
+[482],,Ruiz,3e6ca51cded84768bd34a9c302c5bb4c@ct.vtex.com.br,5491154126672,,,,,,,,,Neutral
+[585],Eduardo,Schmitz,3ec97ff6f68a419aa94606f6f9d4438d@ct.vtex.com.br,5491136977034,,,,,,,,,Neutral
+[725],,Centurión,3f1e545ee5424ac6ba374a7e5736ea8a@ct.vtex.com.br,5492323583258,,,,,,,,,Neutral
+[731],,FERRON,40815c406fee45bbbb8873f8396e637d@ct.vtex.com.br,5491151365700,,,,,,,,,Neutral
+[43],,Musso,409ef50cd47f4947896ee2155cb611f9@ct.vtex.com.br,5491149726818,,,,,,,,,Neutral
+[602],EDUARDO,FERRON,4115082bf99047258d7c0248757854f0@ct.vtex.com.br,5491151365700,,,,,,,,,Neutral
+[300],,Casuccio,425e15d0eb52413e838a2df435ad6ae4@ct.vtex.com.br,541124662332,,,,,,,,,Neutral
+[603],Federico,Galliano,448dcfb3dd0940f1b8844c65fd393d1d@ct.vtex.com.br,5492216236704,,,,,,,,,Neutral
+[154],OCTAVIO,VILABOA,45592bc39dba4b55bfeb4edf2b4c5e95@ct.vtex.com.br,5493484333175,,,,,,,,,Neutral
+[440],,Gimenez,48a375c49345475bb2fed4cc9525a7fa@ct.vtex.com.br,5491132028716,,,,,,,,,Neutral
+[270],,Rigoni,49d8bc3968614912b1ea016473917c2b@ct.vtex.com.br,541133504465,,,,,,,,,Neutral
+[339],Sergio,Núñez,526c77581b1f4f188702f795224947a4@ct.vtex.com.br,5491150011056,,,,,,,,,Neutral
+"[328, 330]",LUCÍA,RECONDO,52c8309348f041d3a697744d347678a8@ct.vtex.com.br,5492352406116,,,,,,,,,Neutral
+[559],FACUNDO,VIALE,572803e063794b7e94037a140b9a6bcc@ct.vtex.com.br,5491134002015,,,,,,,,,Neutral
+[593],Martin,Mendez,592cff2a1a3e481991a8f1e69f52010f@ct.vtex.com.br,5491137655857,,,,,,,,,Neutral
+[435],,CAVIEDES,5ac904efe82d44cca4f54034645f9a08@ct.vtex.com.br,543329604779,,,,,,,,,Neutral
+[130],,Oviedo,5ca377d423c346a88693b27c82e3fe4a@ct.vtex.com.br,5492235698643,,,,,,,,,Neutral
+[624],Eugenia,Fuster,5cf987376fb14fb39c8ed909842cda4d@ct.vtex.com.br,5493513937886,,,,,,,,,Neutral
+[314],JUAN,MARTIN KERGARAVAT,5d87ae2478234bc4a27d67e680c0df06@ct.vtex.com.br,540294515547835,,,,,,,,,Neutral
+[418],,acevedo,624e07b1088e4a18ae629225f192bf59@ct.vtex.com.br,541138404855,,,,,,,,,Neutral
+[494],,ATRI,66ef8711d88d4c1a985eb23e67f6a7c8@ct.vtex.com.br,542235269752,,,,,,,,,Neutral
+[702],,rial,6795a3d914cd48af9ae32d9747fb3b38@ct.vtex.com.br,5491132779117,,,,,,,,,Neutral
+[376],JAVIER,ALFREDO RUIZ,67f5a3ffefae4869b63111db9baf3e95@ct.vtex.com.br,5491150535744,,,,,,,,,Positivo
+[701],,Lago,6d1db156094841c68537b9ab588fd49d@ct.vtex.com.br,541135664974,,,,,,,,,Neutral
+"[399, 401]",CRISTINA,MARTINEZ,76794478c3ce471ab96a9825b7182b86@ct.vtex.com.br,5492323449051,,,,,,,,,Neutral
+[324],JUAN,MOSCARDI MORO,77291a060c4a43c59ef0c3b234cfae3e@ct.vtex.com.br,5492284616899,,,,,,,,,Neutral
+[432],,VILA,77c4db40965b488a9466423225f759aa@ct.vtex.com.br,541144161674,,,,,,,,,Neutral
+[200],,Gracia,7caee3ff89b44ce9b0af48889f001a91@ct.vtex.com.br,541136815546,,,,,,,,,Neutral
+[503],,Pereyra,7cbceceb6f6c4ec7a7ca01c839d0e9e0@ct.vtex.com.br,542342465672,,,,,,,,,Neutral
+[703],,Pereyra,7f03434336b54e66b74667918035496a@ct.vtex.com.br,542342465672,,,,,,,,,Neutral
+[68],,Olmo,83a6e836b2eb45fcbd1d43e78f193bc6@ct.vtex.com.br,5491162496264,,,,,,,,,Neutral
+[79],,BAUDISSONE,83fb0272d8cd4b8092693b7c5727d4b4@ct.vtex.com.br,5493584815122,,,,,,,,,Neutral
+[639],Manuel,Torra,84f3b7ae57f84b2eadd8e2fe83b5f76f@ct.vtex.com.br,5491166580876,,,,,,,,,Neutral
+[354],,Oviedo,888841534e124deaafa856223c0e93f1@ct.vtex.com.br,5492235698643,,,,,,,,,Neutral
+[736],,biancalana,88c79cb878674eeb879f4219d9a79d91@ct.vtex.com.br,5491156047714,,,,,,,,,Neutral
+"[370, 371]",MARCOS,LUCIANO CANZONETTA,88de8a7fdc7049cf923d85c2f346463e@ct.vtex.com.br,5492364679994,,,,,,,,,Neutral
+[445],,Gomez,89f2b91ce23b42a5bd262884c9db673f@ct.vtex.com.br,541157089026,,,,,,,,,Neutral
+[497],,Sanin,8a9e0f859c9f41d8ae69b8f3adeec035@ct.vtex.com.br,5491146730326,,,,,,,,,Neutral
+[536],Eduardo,Garcia Saenz,8e49afe1a2de40c985b97c40a06ebf1e@ct.vtex.com.br,5491162202478,,,,,,,,,Neutral
+[557],cesar,Naranjo,8f05333d15c84697ac23e3b2add95ce5@ct.vtex.com.br,5491131364820,,,,,,,,,Neutral
+[318],,Croce,929c60910313450994ae23a374b480f4@ct.vtex.com.br,542215239616,,,,,,,,,Neutral
+[444],,Tonetti,9819df9bb25e45a7b4aa6e78ff43b971@ct.vtex.com.br,5492291544899,,,,,,,,,Neutral
+"[390, 411]",Madeo,Luis,ADMCONTABLE.DMC@GMAIL.COM,543874642823,,,,,,,,administracion@grupodmc.com.ar,Neutral
+[257],Alejandra,Gabriel,Aleg_79@yahoo.com.ar,5492214779410,,,,,,,,,Neutral
+"[153, 263]",,Andrea,Andreaboverio@gmail.com,5491167260007,,,,,,,,,Neutral
+"[350, 359]",Andrea,Schultheis,Andreafabianaschultheis@gmail.com,541151068017,,,,,,,,,Neutral
+[161],Andrea,Navarrete,Andreanav00@gmail.con,5491155158045,92316629,EL SALVADOR 5966,CIUDAD AUTONOMA BUENOS AIRES,,,,,,Neutral
+[100],Antonella,5491159967459,Antomariani20@hotmail.com,1159967459,,,,,,,,,Neutral
+[102],Blanca,Sotelo,Blancanard2@gmail.comb,5493794950827,,,,,,,,,Neutral
+[508],Bruno,Ferraiuolo Ferraiuolo,Bruni_ferra10@hotmail.com,5491139058586,,,,,,,,,Neutral
+[738],Carlos,Duarte,Carlosduartets@gmail.com,5491159921122,25744771,Olazabal 3205 9C e/Freiré y conde,caba,,,,,,Neutral
+"[85, 91]",,.,Charlymoron2214@gmail.com,5491126324909,,,,,,,,,Neutral
+[311],,Ale,Consulta,5491150353431,,,,,,,,,Neutral
+[733],Matías,González,Cr.gonzalezme@gmail.com,5491167880128,32479306,SLA VICTORIA N°1250. ENTRE LISANDO DE LA TORRE Y ALFRED NOBEL,Del viso,,,,,matichiquito@gmail.com,Neutral
+[721],Clau,Schmale,Cs.cuenta@gmail.cim,5491155793500,,,,,,,,,Neutral
+[93],MARIA,CECILIA FREITES,Diegogvarela@gmail.com,5491162184351,,,,,,,,,Neutral
+[329],Guille,??,Es gmaniuch@hotmail.com,5491121646961,,,,,,,,,Neutral
+[252],Facundo,Gonzalez,Facundo700r@gmail.com,5492215382118,30281237,,,,,,,,Neutral
+[223],Valeria,Rodriguez Furlong,Furlong.valeria@gmail.com,5491163695839,,,,,,,,,Neutral
+[1],,alberti,Galberti2011@gmail.com,5491144935993,,,,,,,,,Neutral
+[259],Guillermo,Fernandez Lobbe,Gferlobbe@gmail.com,5491156404143,28692962,Moldes 2143 3A,Caba,,,,,,Neutral
+[373],guillermo,oscar Freire,Guillefreire@outlook.com,541151740417,25998625,Glew,Centenario,,,,,,Neutral
+[229],Joel,Roitvan Contino,Jroitvan+whirlpool@gmail.com,5491153250241,30037258,GERVASIO ESPINOSA 764,CIUDAD AUTONOMA BUENOS AIRES,,,,,,Neutral
+[387],Silvina,Adinolfi,Juancperrotta@gmail.com,5491166479536,22293070,Gualeguay 735 entre Año 1852 y Ramos Mejia,Palomar,,,,,,Neutral
+[165],JULIETA,RISSO,Julyrissi@icloud.com,5492236015735,,,,,,,,,Neutral
+[421],Karen,Sanchez,Karens02118@gmail.com,5493454321160,42730818,Humberto Primero 4874. Entre Facundo Quiroga y Chacho Peñaloza.,Concordia Entre Ríos,,,,,,Neutral
+[42],Karina,Urrutia,Kari_urr@outlook.com,5492284537055,,,,,,,,,Neutral
+[156],,Liliana,L,5493434510197,,,,,,,,,Neutral
+[59],Liliana,Buzzetti,Lili_buzzetti@hotmail.com.ar,5491155675543,24763009,Bernardo de Monteagudo 918  entre Martin Miguens y Martin Fierro  PB,Villa Bosch,,,,,,Neutral
+[714],Maria,allende,Maryallende85@gmail.com,5491150520882,31684984,Ceretti 2218 piso 5 c  entre olazabal y Blanco encalada,Capital Federal Bs as Cp:1431,,,,,,Neutral
+[417],José,maximiliano Miranda,Maxxyban350@gmail.com,5492974434988,,,,,,,,,Neutral
+[155],MARIA,DEL CARMEN GADEA,Mdelcgadea@hotmail.com,5492355411115,,,,,,,,,Neutral
+[542],Selva,Salinas 5491141419387,Mi nombre es Selva Salinas y mi correo es ssalinas@telefe.com,5491141419387,,,,,,,,,Neutral
+"[394, 400]",Milagros,??,Molinamilagroscamila0@gmail.com,5493513710696,42337196,SANTA TECLA 2830,CORDOBA,,,,,,Neutral
+"[84, 88]",Mónica,Gulian,Moni.gulian@gmail.com,541136828280,14569787,Fragata Hercules 450,General Rodríguez  Buenos Aires,,,,,,Neutral
+[47],Carolina,M,Moralescarolina984@gmail.com,5491149718965,,,,,,,,,Neutral
+"[51, 60, 217]",Miguel,Plomer,Mplomer.mp@gmail.com,5493517476753,,,,,,,,,Neutral
+[212],Nancy,Ruibal,Nancyruibal@gmail.com,5491140345185,,,,,,,,,Neutral
+[604],Natalia,Galvan Galvan,Nataliajgalvan83@gmail.com,5491127695272,,,,,,,,,Neutral
+[423],Nicolás,Barrera,Nicobarrera-1993@hotmail.com,5492241533336,,,,,,,,,Neutral
+[163],LUCIANO,ARNALDO SANCHEZ,No,5492473401680,4693976,Calle 19 N512 entre 44 Y 45,COLON BUENOS AIRES,,,,,,Neutral
+[226],WAlther,Oscar Alberto,Oscaraw@gmail.com,5491141709491,,,,,,,,,Neutral
+[355],,Pablo,Pablogural@gmail.com,5493487545099,,,,,,,,,Neutral
+[381],,Pao,Pao@lukovsky.com,5491161713339,,,,,,,,,Neutral
+[177],,Patri,Patricia_lucero81@hotmail.com,5491162860618,,,,,,,,,Neutral
+[698],Paula,Urraco,Paulaurraco@hotmail.com,5491155885753,,Larralde 1750 casa entre Lobos y Eslovenia,castelar,,,,,paulaurraco@hotmail.com,Neutral
+[472],Paula,Villagra Velez,Paulavillagravelez@yahoo.com.ar,5493814182037,,,,,,,,,Neutral
+[29],,Paul,Pauljarg@gmail.com,5491157367249,,,,,,,,,Neutral
+[742],Johana,Medina,Quería saber sobre el precio de las heladeras,5493547577468,,,,,,,,,Neutral
+[353],ROBERTO,ANDRES OTTONELLI,ROBERTO.OTTONELLI@HOTMAIL.COM,1161661180,,,,,,,,,Neutral
+"[73, 74]",Rocio,PARAREDA,Rocioparareda03@hotmail.com,5492243401110,,,,,,,,,Neutral
+[461],Chalito,?,Rosasgonzalo06@gmail.con,5492613675940,,Lescano Fa 410  e/25 y Olazcuada,Las heras,,,,,rosasgonzalo06@gmail.com,Neutral
+[109],,?➕️?,Saritaledesma@hotmail.com,5491167991816,31965674,,,,,,,,Neutral
+[30],Sergio,pardiñas,Sergio_1967@hotmail.com,5491128893821,18389564,Calle 136 n°1462 entre avda 14 y calle 15,Berazategui Bs as,,,,,,Neutral
+[715],Ina,Defago,Silvia.defago@gmail.com,5491157590262,,,,,,,,,Neutral
+[322],ELIZABETH,VAZQUEZ,Vivievazquez@gmail.con,5491151565161,,,,,,,,,Neutral
+[265],,Rigoni,a7b28da4879c4b1fbda9dd3336b4b42d@ct.vtex.com.br,541133504465,,,,,,,,,Neutral
+[70],,Olmo,a99dd94d10884e038c22eac744d704f4@ct.vtex.com.br,5491162496264,,,,,,,,,Neutral
+[466],,Ferreira,aad8a349245b4d0c85b043523446b357@ct.vtex.com.br,5491162918817,,,,,,,,,Neutral
+[638],Martin,Mendez,aca84c8fdcbb44b98ca294f1c66d9da6@ct.vtex.com.br,5491137655857,,,,,,,,,Neutral
+[18],,Olmo,ad52a9c41f12415f9a6dc0842bf7167c@ct.vtex.com.br,5491162496264,,,,,,,,,Neutral
+[185],Administracion,Flor,administracion@strange.com.ar,5491126221059,,,,,,,,,Neutral
+"[361, 363]",Adriana,Casquete,adriana.casquete@hotmail.com,542923433826,,,,,,,,,Neutral
+[615],Adrian,Regazzoni,adrianregazzoni@hotmail.com,5491151811121,,,,,,,,,Neutral
+[168],Adriana,Lijdens,adrilijdens@yahoo.com.ar,542615438108,,,,,,,,,Neutral
+[284],Ariel,Gorlino,agorlino@megatone.net,,,,,,,,,,Neutral
+[317],Agostina,TORRETTA,agostinatorretta99@gmail.com,5493571678851,,,,,,,,,Neutral
+[506],ALEJANDRO,RAUL GROSSO GROSSO,agrosso@igh.com.ar,5493564602071,,,,,,,,,Neutral
+[580],agustin,del tronco,agustindt@hotmail.com,5491136930103,,,,,,,,,Neutral
+[52],Alejandro,Weisse,ajweisse@gmail.com,5491159545504,25426013,Bleriot 6970  entre Patallo y Udet,Ciudad Jardín Lomas del Palomar,,,,,,Neutral
+[24],,Safdiye,albersaf@hotmail.com,541131862665,,,,,,,,,Neutral
+[255],ALEANCO,anconatani,aleanco@hotmail.com,111568090450,30717865568,,Canning,,,,,,Neutral
+[31],Alejandro,Mauricio García,alegarciav46@hotmail.com,5491151062218,23675615,JUAN BAUTISTA ALBERDI 735 – E/CASTEX Y 9 DE ABRIL,MONTE GRANDE,,,,,,Neutral
+[323],Alejandro,Rodriguez,alejandro840527@gmail.com,543884211683,,,,,,,,,Neutral
+[96],Alejandro,Suarez,alesuarez93@gmail.com,,13.746.108,,,,,,,,Neutral
+[81],,Amy☺️☺️,americapilar7@hotmail.com,5493416102649,92840007,Vedia 3527,Rosario,,,,,,Neutral
+[92],analia,fernanda carril,ana_carril90@outlook.com,,,,,,,,,,Neutral
+[675],Ana,Carullo Miguez,anacarullo@hotmail.com,5492344427249,44933510,Calle 46 num 525 entre 5y6 fondo a 45 Departamento 4C,La plata Buenos Aires,,,,,,Neutral
+"[341, 357, 442, 460]",ANALÍA,ARGENTO,analiaargento2008@yahoo.com.ar,5491168927326,,,,,,,,,Neutral
+[283],ANA,MARIA JURADO,anamaria60@hotmail.com,542215380910,,,,,,,,,Neutral
+[309],Ana,Maria Cotillo,anamariacotillo@yahoo.com.ar,5492281598261,12716871,Av Constitución 19,Benito  Juarez,,,,,,Neutral
+[288],Andi,Jakos,andijakos@gmail.com,,,,,,,,,,Neutral
+[246],Andrea,java Sztiler,andreajava26@gmail.com,541134088725,28168131,,capital,,,,,,Neutral
+[94],Angeles,Isorna,angeles.isorna@gmail.com,,,,,,,,,,Neutral
+[532],Mariano,Apaza,apaza92@hotmail.com,5491162166288,,,,,,,,,Neutral
+[686],Leward,sa Leward sa,aracelipamela9@gmail.com,5491158064454,,,,,,,,,Neutral
+[562],Ariel,Perelman,ariperelman@gmail.com,5491131931000,,,,,,,,,Neutral
+[645],Antonoio,Francisco Armara Armata,armata@armatasrl.com.ar,5491140497232,,,,,,,,,Neutral
+[388],Arturo,garcia,arturo_g1@hotmail.com,,11081474,El Cardón 4553 (entre el churrinche y la taruca)-Barrio Puerta del sol. Casa,Ciudad Evita La Matanza - Pcia. de BS. AS. CP:1778,,,,,,Neutral
+[566],Jonatan,Maciel Maciel,aston_3000@hotmail.com,5491164065959,,,,,,,,,Neutral
+"[62, 63]",Atencion,al cliente,atencionalcliente@pardohogar.com.ar,,,,,,,,,,Neutral
+[142],,Santos,b5b878d5325148528d516ad912602eeb@ct.vtex.com.br,5492364223191,,,,,,,,,Neutral
+[113],,CAVIEDES,b5c92e7595154676b38052cdd27f119d@ct.vtex.com.br,543329604779,,,,,,,,,Neutral
+[15],,Olmo,b5fe0696f73d405b98418fb0fc89a6c9@ct.vtex.com.br,5491162496264,,,,,,,,,Neutral
+[9],,Giardini,ba169193ffbf45e0a8bc0b5345d1c634@ct.vtex.com.br,5492235769173,,,,,,,,,Neutral
+[662],Barbara,Porta Porta,barbara.porta@hotmail.com,5491150374603,,,,,,,,,Neutral
+[739],,BACCHI,bc9a9d7873334514aa3052d278984de8@ct.vtex.com.br,5492214400218,,,,,,,,,Neutral
+[157],MARIA,ROSA MAZZOLA,bdff265bdd234aaab40daa0dad568553@ct.vtex.com.br,5492317507457,,,,,,,,,Neutral
+[443],,Tonetti,bea9eb4755fa45df80380e915aad740b@ct.vtex.com.br,5492291544899,,,,,,,,,Neutral
+[690],Adriana,Belen Carmele Carmele,belencarmele@gmail.com,5493513044462,,,,,,,,,Neutral
+[577],Beltran,Bonaventura Bonaventura,beltranbonaventura@hotmail.com,5491167539266,,,,,,,,,Neutral
+[655],Belen,Ledesma,beluledesma@hotmail.com,5491149897160,,,,,,,,,Neutral
+[17],,Olmo,bf7513741d714627bf6b974624beb78a@ct.vtex.com.br,5491162496264,,,,,,,,,Neutral
+[98],,Rodriguez,c0d238bf2a6b410295d2f6f760508eec@ct.vtex.com.br,541134631330,,,,,,,,,Neutral
+[112],,CAVIEDES,c1b1ab0110a7476c96a711973ac94739@ct.vtex.com.br,543329604779,,,,,,,,,Neutral
+[543],Hernan,Otalora,c58a7aeb971d45278c50a6aefd6d032e@ct.vtex.com.br,5491162137756,,,,,,,,,Neutral
+[286],,giraldo,c590a45a0b5d41978db73704cc3bfe49@ct.vtex.com.br,542613835224,,,,,,,,,Neutral
+[141],,Santos,c5ff7083fbe64d1a8cbd203ed675d90d@ct.vtex.com.br,5492364223191,,,,,,,,,Neutral
+[56],,Musso,c86403bb7e5e4f84b0fded09b9c128fd@ct.vtex.com.br,5491149726818,,,,,,,,,Neutral
+[54],,Musso,c9fb028e23e046c5b87560a5a42d868f@ct.vtex.com.br,5491149726818,,,,,,,,,Neutral
+"[487, 488]",Matias,Leonel,cabreraleonel340@gmail.com,5491144069256,,,,,,,,,Neutral
+[706],,Dormebene,cadormebene@teco.com.ar,5491156380768,,,,,,,,,Neutral
+[332],Denise,Calvelo,calvelodenise@gmail.com,,,,,,,,,,Neutral
+[114],,carla.gonzalez@gmail.com,carla.gonzalez@gmail.com,541169661972,,,,,,,,,Neutral
+[129],,Soliz,carlos-roberto@live.com.ar,5491156474494,,,,,,,,,Neutral
+[511],Carlos,Ariel Carral,carlos.ariel96@outlook.com,5491158628612,,,,,,,,,Neutral
+[741],,carolinatello22@gmail.com,carolinatello22@gmail.com,5493492623965,,,,,,,,,Neutral
+[48],Silvina,Susana Casas,casassilvina3@gmail.com,5493465663603,,,,,,,,,Neutral
+[378],,Maldonado,ccc9d030462f4f33a4a5c73e46baddb4@ct.vtex.com.br,542494601791,,,,,,,,,Neutral
+[463],,Tonetti,ce9def1a1302430d9365c51ced02c074@ct.vtex.com.br,5492291544899,,,,,,,,,Neutral
+[243],,Palacios,ceci-palacios@hotmail.com,541133656982,,,,,,,,,Neutral
+[468],Cecilia,Mansini,cecimansini@yaho.com.ar,541131081000,,,,,,,,,Neutral
+[221],CELESTE,DEL ALBA TEJADA,celeste22t@hotmail.com,,27091680,MORENO 124,CAMPANA,,,,,,Neutral
+[431],,Cesar,cesar_latorre@hotmail.com,5491152575557,,,,,,,,,Neutral
+[408],SILVIA,SUSANA AMADO,cfa939789fca4f12af1a7e2ceab28bac@ct.vtex.com.br,5492346659301,,,,,,,,,Neutral
+"[204, 406]",Elena,Altamirano,chini.ian.amadeo@gmail.com,,,,,,,,,,Neutral
+[586],Christian,hugo Sevorga rosas,chrs79@hotmail.com,5491168358362,,,,,,,,,Neutral
+[173],Cintia,Lorenzo,cintiamlorenzo@gmail.com,,,,,,,,,,Neutral
+[260],Claudia,Ginter,claudiandreaginter@gmail.com,,,,,,,,,,Neutral
+[682],Claudio,Celano Gomez Gomez,claudiocelanogomez@gmail.com,5491156172121,,,,,,,,,Neutral
+"[180, 182]",Colon,Services,colonservices@bringerihogar.com.ar,,,,,,,,,,Neutral
+[237],CLAUDIORAMONC2005,cañal,colorado_canal@hotmail.com,1142387471,30714344656,,Ciudad Evita,,,,,,Neutral
+"[103, 238]",Contacto,Frávega,contacto@fravega.com,,,,,,,,,,Neutral
+[550],DANIEL,VAZQUEZ,coronelmlaura@gmail.com,5491163706954,,,,,,,,,Neutral
+[272],David,Figueroa,correo@hotmail.com,5491154900451,,,,,,,,,Neutral
+"[723, 730]",MARIA,Emponchate,cortes-ms@hotmail.com,5493585484484,,,,,,,,,Neutral
+[303],Cristian,Gustavo Oddo,crisoddo@hotmail.com,1140425383,23010795,,,,,,,,Neutral
+[343],Camila,Rojas,crojas@freecustoms.com.ar,,,,,,,,,,Neutral
+[679],Claudio,Schmale,cs.cuenta@gmail.com,5491155793500,,,,,,,,,Neutral
+"[258, 276]",Carlos,Tagliani,ctagliani@lestar.com.ar,5491168656647,17031438,Asunción 3335,CABA,,,,,,Neutral
+[319],MARIAMAGOIA,Magoia,cutylazapatos@yahoo.com.ar,111560014250,23228844764,,Quilmes,,,,,,Neutral
+[348],ARIEL,ALBERTI,d37d6845565b49c89ce653372429fb60@ct.vtex.com.br,5491135717190,,,,,,,,,Neutral
+[13],,Olmo,d4c1c20f3fb6472ca21d7f13e2c7db47@ct.vtex.com.br,5491162496264,,,,,,,,,Neutral
+[299],,Casuccio,d50f01cc02474de0865f3d5ecdbbdcfe@ct.vtex.com.br,541124662332,,,,,,,,,Neutral
+[274],,lopez,d5aad4404f29408a886d8c70cad903ef@ct.vtex.com.br,5491162511918,,,,,,,,,Neutral
+[734],,BACCHI,d7ba39cd91e246b8983cd6079dac3ce3@ct.vtex.com.br,5492214400218,,,,,,,,,Neutral
+[684],Carina,Dormebene,d906c9cd0d274200934716eab3fdec6a@ct.vtex.com.br,5491156380768,,,,,,,,,Neutral
+[240],Daiana,Pais,daaianaa.soledadpais22@gmail.com,,33990714,CALLE 146 224,La Plata,,,,,,Neutral
+[295],LUIS,ALBERTO MORALES,dad91b0b6a4249048d3787106a11e3ec@ct.vtex.com.br,5491124563342,,,,,,,,,Positivo
+[429],Miguel,angel Iglesias,dagfal_pao@hotmail.com,53293,,,,,,,,,Neutral
+[214],,Abraham,daniel.abraham@prosegur.com,541142456940,,,,,,,,,Neutral
+[594],daniel,panik,danielapanik@gmail.com,5491168923637,,,,,,,,,Neutral
+[78],Vanesa,Calloni,danielbarone04@gmail.com,5492317507529,,,,,,,,,Neutral
+[681],Danilo,Yapur Yapur,daniloyapur@gmail.com,5492615917380,,,,,,,,,Neutral
+[643],Dario,Andrea Mazza,darioamazza@live.com.ar,5491140237822,,,,,,,,,Neutral
+"[469, 481]",David,Merlo,davidmerlo14@gmail.com,5492223500855,,,,,,,,,Neutral
+[316],,defconsumidor@miituzaingo.gob.ar,defconsumidor@miituzaingo.gob.ar,,,,,,,,,,Neutral
+[209],,Hugo,delahuella@hotmail.com,5491162303030,,,,,,,,,Neutral
+"[171, 172, 175, 176, 178]",Maria,luisa  Sanches  Sanches,delpinovanesanatalia@gmail.com,541158954900,,,,,,,,,Neutral
+[537],Cinthia,Ayala Ayala,derecho.ayala@gmail.com,5491140980168,,,,,,,,,Neutral
+[287],diego,giraldo,diego.giraldo@pecomenergia.com.ar,542613835224,,,,,,,,,Neutral
+[83],Diego,Perez Diaz,diegoaperezdiaz@gmail.com,5491122509880,,,,,,,,,Neutral
+[597],DIEGO,EZEQUIEL TRENTO TRENTO,diegotrentoezequiel@hotmail.com,5491169715873,,,,,,,,,Neutral
+[294],Diego,Varela,diegovarelamdq@gmail.com,,,,,,,,,,Neutral
+[282],,ds3471@gmail.com,ds3471@gmail.com,,,,,,,,,,Neutral
+[4],VADA8836822,Vader,dvader4270@gmail.com,1157031192,22937621,,,,,,,,Neutral
+[718],Daniel,Xinos,dxinos@gmail.com,5491150575376,10688014,Obrero Roberto Nuñez 4352  entre Pringles y Palestina  Barrio de Almagro,CABA,,,,,,Neutral
+[504],,Canteros,e04fa3bb5de4469da55ad29131515c58@ct.vtex.com.br,541123748225,,,,,,,,,Neutral
+[273],,Caballero,e3403e036a1540b9a1156949df873114@ct.vtex.com.br,5491151316183,,,,,,,,,Neutral
+[708],,cepeda,e47a5462d23c472791562bef8004f231@ct.vtex.com.br,5491155283129,,,,,,,,,Neutral
+[574],CARLOS,ISAAC DAVID,e6909307fb714a49b263af52fde4614b@ct.vtex.com.br,5491169341034,,,,,,,,,Neutral
+[745],,Toledo,e7f10dc3d89d4e479753bb8669811937@ct.vtex.com.br,5491167632779,,,,,,,,,Neutral
+[76],Pablo,Marquez,editorialmarquez@gmail.com,,,,,,,,,,Neutral
+[253],Gross,Eduardo,eduardo.gross@claas.com,5493513753473,,,,,,,,,Neutral
+[65],,Olmo,eec9a3c9d7b84becb4f7c855cc72eaa3@ct.vtex.com.br,5491162496264,,,,,,,,,Neutral
+[459],Ezzequiel,Gazzera,egazzera@gmail.com,5491158796334,,,,,,,,,Neutral
+[197],Elias,Martin Morelli,eliasmartinmorelli@gmail.com,341156100919,,,,,,,,,Neutral
+[397],CARMEN,BALPARDA,elisabalparda@yahoo.com.ar,91550951448,,CNEL DE MARINA ROSALES  2620,,,,,,,Neutral
+[539],enzo,van de linde,enzovande@gmail.com,5491128608381,,,,,,,,,Neutral
+[380],Karina,Franco,estudiokaf@gmail.com,5491144371078,,,,,,,,,Neutral
+[493],Claudia,Reidman,estudioreidman@gmail.com,,,,,,,,,,Neutral
+[333],María,Eugenia,eugeniasconfienza@gmail.com,,,,,,,,,,Neutral
+[302],Ezequiel,Caggiano,eze.caggi@gmail.com,111536988609,32759334,,Palermo,,,,,,Neutral
+[600],Martin,Adrian Rodriguez Rodriguez,ezequiel_futbol@outlook.com,5492215997171,,,,,,,,,Neutral
+[239],Ezequiel,Retyk,ezequielretyk@gmail.com,,,,,,,,,,Neutral
+[262],MARIA,FABIANA TORREZ,f.abyanatorrez@gmail.com,5493513093829,,,,,,,,,Neutral
+[744],,Aldave,f0444523256744688a5d54c56571c22b@ct.vtex.com.br,5492215853995,,,,,,,,,Neutral
+[268],,Solís,f10d68e8900f4cd78ed81cbe14e483e0@ct.vtex.com.br,541140559755,,,,,,,,,Neutral
+[398],,Portelli,f324675e32dc4729a17c10b3f8a9af2e@ct.vtex.com.br,541163678571,,,,,,,,,Neutral
+[58],,Musso,f330c14ad5aa4c929f270b9f5a975942@ct.vtex.com.br,5491149726818,,,,,,,,,Neutral
+[710],,Andres,f42b8a6ef5154c0b893e834ea99663a5@ct.vtex.com.br,541156010244,,,,,,,,,Neutral
+[726],,Pezzini,f73dc977cecb4f7fa29b4ff46283472b@ct.vtex.com.br,542213162562,,,,,,,,,Neutral
+[567],JUAN,FRANCISCO GOMEZ GOMEZ,f7fddcdf0fc24d2aa021d042bdd783e0@ct.vtex.com.br,5491140863863,,,,,,,,JFGOMEZOK@GMAIL.COM,Neutral
+[307],MERCEDES,PATRICIA MARTINEZ,f8a819e0a286454c8dd1d4657fa1829a@ct.vtex.com.br,5491124526668,,,,,,,,,Neutral
+[584],Facundo,Barcelo,facubarcelo20@gmail.com,5491122531503,,,,,,,,,Neutral
+[248],facundo,Gonzalez,facundo700r@gmail.com,,,,,,,,,,Neutral
+[561],Federico,Villante Villante,federico_villante@hotmail.com,5491166425886,,,,,,,,,Neutral
+[97],MORSA79,do Rego,federicodorego@msn.com,1144517353,20272154601,,Villa Crespo,,,,,,Neutral
+[25],,FEELGOODSHOESSA,feelgoodshoes.sociedadanonima@gmail.com,1162074092,30717371700,,Flores,,,,,,Neutral
+[676],laura,cepeda cepeda,felipitocepeda@hotmail.com,5491155283129,,,,,,,,,Neutral
+[337],,Fernando,fergrau@gmail.com,5491143998810,,,,,,,,,Neutral
+[19],,Olmo,ff5ff3568f0e49b898305ab30b084dcc@ct.vtex.com.br,5491162496264,,,,,,,,,Neutral
+"[391, 392]",JORGE,RUBEN GARBALENA,ff6a1742312a4696bb9f3763a2a7c00c@ct.vtex.com.br,5492215344300,,,,,,,,,Neutral
+[693],FLORENCIA,MERCADO LUNA LUNA,flomercadoluna@hotmail.com,5493516578808,,,,,,,,,Neutral
+[342],Fernando,Manucini,fmancini@entolux.com,5491163815395,18077467,,,,,,,,Neutral
+[433],,VILA,fmvila@gmail.com,541144161674,,,,,,,,,Neutral
+[393],OSCAR,PAVLOVCIC,fotovideooscar@yahoo.com.ar,5491158922380,,,,,,,,,Neutral
+[425],,francisco.colegio.sarmiento@gmail.com,francisco.colegio.sarmiento@gmail.com,,,,,,,,,,Neutral
+"[267, 269]",Francisco,Fernandez,franciscofernandez.fmf94@gmail.com,541141748353,,,,,,,,,Neutral
+[27],Fernando,Segon,fsegon@gmail.com,5493874437123,,,,,,,,,Neutral
+"[285, 289, 331]",Fabrizio,Zaffarana Zaffarana,fzaffarana@gmail.com,541149464270,,,,,,,,,Neutral
+[254],Informe,Tecnico (Generica) (CL),g-informetecnico@ripley.com,,,,,,,,,,Neutral
+[692],Gabriela,Lorena Prono S.a.,gabriela.prono@e-gesa.com.ar,5493515727092,,,,,,,,,Neutral
+"[384, 389]",Gabriela,Iragorre,gaby_iragorre@hotmail.com,542644981631,,,,,,,,,Neutral
+"[414, 415]",GABRIELA,ANDREATTA,gandreatta2000@yahoo.com.ar,362154566022,,RIOJA  347,Resistencia,,,,,,Neutral
+[277],,Roa,georgina.roa@osde.com.ar,5491169037684,,,,,,,,,Neutral
+[591],Silvia,Georgieff,georsilvi@yahoo.com.ar,5491168580230,,,,,,,,,Neutral
+[167],Gerardo,5491163771535,gerardozugazaga@hotmail.com,1163771535,22965431,Carlos Tejedor 77 (casa),Temperley,,,,,gerardozugazaga@hotmail.com,Neutral
+[467],Victor,Gerber,gerber.victor@gmail.com,011 1544070835,30447696,OLD MAN 704 Barrio haras santa maria lote 1577,Escobar,,,,,,Neutral
+[520],Silvia,Edith Alvarez Romero,gerssi@hotmail.com,5491160232404,,,,,,,,,Neutral
+[169],,Conti,ggconti70@gmail.com,542235505599,,,,,,,,,Neutral
+[125],,Guillermo,gnocetti1979@gmail.com,5491137260605,,,,,,,,,Neutral
+[108],MPILIGONZALEZ2612,gonzalez,gonzalez_pili@hotmail.com,1541572045,23342309534,,Capital federal,,,,,,Neutral
+[133],Nicolás,Grassi,grassinicolas.a@gmail.com,,,,,,,,,,Neutral
+[523],Gabriel,Tabacinic,gtabacinic@hotmail.com,5491160284607,,,,,,,,,Neutral
+[666],Guillermo,Piermattei Piermattei,guillermo.piermattei@osde.com.ar,5491151262301,,,,,,,,,Neutral
+"[275, 290]",Guillermo,Mario Sanchez,guillermo.sanchez@agromargen.com,5492396542658,12491993,ALBARELLOS 2227 E//J jose paso y Muñiz,MARTINEZ,,,,,,Neutral
+[705],Gustavo,Brignone,gusbrignone@gmail.com,5493364072693,,,,,,,,,Neutral
+[247],Paola,Lorena Hernandez,hernandezpao968@gmail.com,1161286034,26206646,Av Vergara n:6679 e/ San Miguel y San Fernando,florencio varela,,,,,,Neutral
+[230],,Hernan,hernannicolascabrera@gmail.com,5493454045864,,,,,,,,,Neutral
+[39],Huevos,Pilar,huevosdelpilar@hotmail.com,,,,,,,,,,Neutral
+[640],Hernan,Zoccoli,hzoccoli@gmail.com,5491139539131,,,,,,,,,Neutral
+[126],LUCKY4LEAFS,Petrarca,ianinapetrarca@yahoo.com.ar,111534795309,23805902,,Escobar,,,,,,Neutral
+[611],bernarda,malaret malaret,info@ayrproducciones.com,5492236348405,,,,,,,,,Neutral
+"[32, 33]",,info@cdinet.com.ar,info@cdinet.com.ar,,,,,,,,,,Neutral
+[150],,info@guia-construccion.com,info@guia-construccion.com,,,,,,,,,,Neutral
+[146],Mercado,Pago,info@mercadopago.com,,,,,,,,,,Neutral
+[552],Javier,Giulianetti,j.giulianetti@gmail.com,5491131102003,,,,,,,,,Neutral
+[422],JAG4458,Gomez,jag4458@yahoo.com.ar,1140707401,12013224,,San Cristóbal,,,,,,Neutral
+[608],Javier,Orsatti,javier@grupodeveloper.com,5492234237270,,,,,,,,,Neutral
+[132],Joaquin,Masuelli,joaquin_masuelli@hotmail.com,,,,,,,,,,Neutral
+[233],,Jhon,jon_jon_22@hotmail.con,5492974254949,,,,,,,,,Neutral
+[627],Jonathan,Castillo Castillo,jonycas998@gmail.com,5493834261232,,,,,,,,,Neutral
+[6],,Jorge,jpinazo@toyota.com.ar,,,,,,,,,,Neutral
+[45],JUAMPIZL,Zorrilla,jpzorrilla@hotmail.com,91153527558,27535173,,Villa Sáenz Peña,,,,,,Neutral
+[271],JOSE,LUIS CASCARDO,julicascardo@hotmail.com,543516091835,32494866,Los teros 473 (Manzana 18  Lote 6),Villa Allende,,,,,,Neutral
+[385],Diego,Kuschnir,kkucho70Qgmail.com,5491160352500,,,,,,,,,Neutral
+[619],Gustavo,Brignone Bellagamba,laurabs@gmail.com,5493364072693,,,,,,,,,Neutral
+[192],MARIA,LAURA COQUIZ,lauracoquiz@gmail.com,,,,,,,,,,Neutral
+[572],Maria,Laura Dall Oro,lauradalloro@hotmail.com,5491133878886,,,,,,,,,Neutral
+[193],Laura,Caratpozzolo,lcarat@palermo.edu,,,,,,,,,,Neutral
+[2],LEOCOR1967,Cordu,leocor1967@hotmail.com,1152372222,20184781019,,Puerto Madero,,,,,leocor1967@hotmail.com,Neutral
+[215],,lianielavitzky@hotmail.com,lianielavitzky@hotmail.com,541147956586,,,,,,,,,Neutral
+[441],,Liliana,lili_buzzetti@hotmail.com.ar,,,,,,,,,,Neutral
+[34],Lili,Zarate,liliezarate@gmail.com,,25290071,AV  CONGRESO 3738,CABA,,,,,,Neutral
+[170],Romina,Tapia,lisrominatapia@gmail.com,,,,,,,,,,Neutral
+[588],Lola,Latorre,lola.latorre@hotmail.com,5491136991298,,,,,,,,,Neutral
+[75],DOLORES,LEVANTI levanti,lolalevanti48@gmail.com,1531211100,14103177,,CABA,,,,,,Neutral
+"[55, 261]",Roxana,Erviti,lre_derecho@yahoo.com.ar,5491165082704,,,,,,,,,Neutral
+[660],Lucas,Miguel adrover adrover,lucas@bripetrol.com.ar,5491150195319,,,,,,,,,Neutral
+[658],Lucas,correa,lucas@sanisidrodeco.com.ar,5491150135806,,,,,,,,,Neutral
+[402],Luciana,Perez,lucperez@santander.com.ar,541136304007,24313830,independencia 2143,Villa Adelina,,,,,,Neutral
+[449],Luis,Cabrini,luis.cabrini@gmail.com,,25006699,San Geronimo 1666,Bosques - Florencio Varela,,,,,,Neutral
+[349],SERRALUISMANUEL,LUIS MANUEL  SERRA,luiserra12@gmail.com,3417208291,20958504099,,,,,,,,Neutral
+[120],MARIA,ANDREA SORIANO,mandreasoriano@hotmail.com,542983443636,22475558,HUMBERTO PRIMO 146 e/ calle 1810 y Lucio V. Lopez,TRES ARROLLOS,542983443636,,,,,Neutral
+[166],María,Elena Salas,maraelenasalas@gmail.com,5493516777986,,,,,,,,,Neutral
+[484],,marcelo--24@hotmail.com,marcelo--24@hotmail.com,,26895486,Doblas 1189,CABA,,,,,,Neutral
+[568],marcelo,sesto rial rial,marcelo.g.sesto.rial@accenture.com,5491132779117,,,,,,,,,Neutral
+[535],marcelo,mansilla,marcelo.mansilla@hotmail.com,5491124240684,,,,,,,,,Neutral
+[720],MARCELO,F. NIEBIESKI,marceloniebieski@gmail.com,541144750568,,,,,,,,,Neutral
+[724],Marcelo,Picollo,marcelopicollo@hotmail.com,,,,,,,,,,Neutral
+[375],Leonardo,Pesti,marcosapresti@gmail.com,351156784378,,DURAN  1161,Cordoba,543516784378,,,,,Neutral
+[697],MARCOS,BOGLIETTI,marcosboglietti@gmail.com,1151440042,,,,,,,,,Neutral
+[439],MARIADELCARMENGAZCON,GAZCON,mariadelcarmengazcon40@gmail.com,3410156921648,20351890,,Rosario,,,,,,Neutral
+[87],Adriana,Luques,mariadelvalleluques@gmail.com,5491134283944,,,,,,,,,Neutral
+[368],Maria,Gadano,mariagadano@gmail.com,,26218693,cerro tupungato 2634,GENERAL ROCA,,,,,,Neutral
+[89],MARIA,ANGELICA ALBARENGA,marialbarenga@gmail.com,543794909721,,,,,,,,,Neutral
+[547],MARIA,MINIUSSI MINIUSSI,mariaminiussi@hotmail.com,5491130981103,,,,,,,,,Neutral
+[480],Maria,marta Maggi,mariammaggi@gmail.com,541131460483,,,,,,,,,Neutral
+[420],Mariana,Celle,mariana.celle@medicus.com.ar,,,,,,,,,,Neutral
+[61],MAMA8642629,Mariano,marianithocarp@gmail.com,1157429910,37905126,,Pilar,,,,,,Neutral
+[57],Mariano,Bonato,mariano_b1211@hotmail.com,5491133812421,,,,,,,,,Neutral
+[541],Mariano,Biscopi,marianobiscopi@gmail.com,5491162271246,,,,,,,,,Neutral
+[231],Maria,Garda,mariaogarda@gmail.com,,,,,,,,,,Neutral
+"[195, 495]",Marisel,Barrere,maricelbarrere@gmail.com,542604236193,,,,,,,,,Neutral
+[131],GONZALEZMARIELA20221113132635,MARIELA EVELINA GONZALEZ,marielarattagan55@gmail.com,,18553483,,,,,,,,Neutral
+[454],,[Sin Contacto],marilyn64g@hotmail.com,1132893375,,,,,,,,,Neutral
+[90],Maria,Eugenia,marionduplacreativa@hotmail.com.ar,5493513142257,,,,,,,,,Neutral
+[671],Ailen,antonella Martinez ramallo ramallo,martinezrantonella@gmail.com,5491154752469,,,,,,,,,Neutral
+[279],Martin,Safi Bravo,martisafi@hotmail.com,,,,,,,,,,Neutral
+"[338, 347]",Mary,Payotte,marupayotte65@gmail.com,,,,,,,,,,Neutral
+[648],Luis,matias Lembo,matias.lembo@gmail.com,5491140798892,,,,,,,,,Neutral
+[564],MATIAS,ROCA Roca,matias.roca@fibertel.com.ar,5491136991751,,,,,,,,,Neutral
+"[250, 427]",Matias,Vilchez,matiasvilchez1975@gmail.com,5493757460530,24288746,Wanda y Capioví s/n,PUERTO IGUAZU,5493757460530,,,,,Neutral
+"[450, 452, 456, 478, 496]",silvana,autullo autullo,mautullo@hotmail.com.ar,541141893910,,,,,,,,,Neutral
+[110],Maximo,Humberto Lauro,maxilauro@gmail.com,,,,,,,,,,Neutral
+[158],,Maxi,maxisebafunez@gmail.com,,,,,,,,,,Neutral
+[470],Maxmiliano,Ringeisen,maxringeisen@hotmail.com,,,,,,,,,,Neutral
+[621],MAYRA,YESICA AMUCHASTEGUI AMUCHASTEGUI,mayra.amuchastegui@gmail.com,5493512263873,,,,,,,,,Neutral
+[707],,Maira,mayramenchi@gmail.com,541124731921,,,,,,,,,Neutral
+[664],Santiago,Lozano,mbrucellaria@ternium.com.ar,5491151146306,,,,,,,,,Neutral
+[665],Atilio,Panaccio PANACCIO,menendezale@hotmail.com,5492214631123,,,,,,,,,Neutral
+[476],Mercado,Shops Argentina,mercadoshops@mercadoshops.com.ar,,,,,,,,,,Neutral
+[95],Mercedes,Langone,mercedes.langone@gmail.com,,,,,,,,,,Neutral
+"[235, 236]",Maria,del Carmen Alonso,meryalo@hotmail.com,5491536930632,,CARBAJAL  4167,CABA,,,,,,Neutral
+"[72, 365]",,Gabi,mgcaloisi@gmail.com,5491140273457,,,,,,,,,Neutral
+[138],Micaela,Badoza urriza,micaela.b.urriza@gmail.com,,,,,,,,,,Neutral
+[26],Michael,Taylor,michaeltaylor.st987@gmail.com,,,,,,,,,,Neutral
+[117],Jimena,Miguez,miguezjs@gmail.com,,,,,,,,,,Neutral
+[545],Mercedes,morgade,mmorgade@toyota.com.ar,5491162096542,,,,,,,,,Neutral
+"[162, 419, 474]",,Noelia,mnoeliaq@gmail.com,5493874400554,,,,,,,,,Neutral
+[264],Maria,Rivolta,mrivolta@mariarivolta.com,541149467560,,,,,,,,,Negativo
+[653],Maria,Soledad Carrasso Carrasso,mscarrasso@gmail.com,5491143993104,,,,,,,,,Neutral
+[211],Solis,Maria Luz,msolis@bpba.com.ar,,,,,,,,,,Neutral
+[499],Veronica,Ossola,mveronicaossola@gmail.com,,,,,,,,,,Neutral
+[188],Diego,Artusi,naneartusi29@gmail.com,,,,,,,,,,Neutral
+[700],cesar,Naranjo,naranjocesar911@outlook.com,5491131364820,,,,,,,,,Neutral
+[515],Natalia,Scarano,natalia_scarano@hotmail.com,5491160199552,,,,,,,,,Neutral
+[37],NATALIACRISCOLA2005,CRISCOLA,nataliacriscola@hotmail.com,1147938023,27237820164,,MARTINEZ,,,,,,Neutral
+[118],MARCELO,GARCIA,nazarflorencia@hotmail.com,541160581104,,,,,,,,,Neutral
+[312],Nicolas,Savelli,nicosavelli@hotmail.com,541150609943,,,,,,,,,Neutral
+[455],,no-reply@mercadolibre.com,no-reply@mercadolibre.com,,,,,,,,,,Neutral
+"[5, 7, 11, 12, 38, 46, 49, 77, 99, 106, 111, 127, 190, 232, 241, 256, 310, 327, 358, 424, 446, 457]",Mercado,Libre,no-responder@mercadolibre.com,,,,,,,,,,Neutral
+[527],Norberto,Trovarelli Trovarelli,norberto.trovarelli@gmail.com,5491161650368,,Hipólito Yrigoyen 3789  7°A   entre Colombres y Castro Barros,AMBA,,,,,,Neutral
+[3],osvaldo,sanguineti,ojsanguineti@yahoo.com.ar,,,,,,,,,,Neutral
+[174],Olga,Oliva,olgaoliva42@hotmail.com,,,,,,,,,,Neutral
+[164],,Bacque,omar_bacque@yahoo.com.ar,5491155634292,,,,,,,,,Neutral
+[218],OMIC,ENSENADA Defensa del Consumidor,omic.ensenada@gmail.com,,,,,,,,,,Neutral
+[717],,Oscar,oscarmartinik@yahoo.com.ar,5491164235177,17997831,calle 375 Bis número 3572,Quilmes Oeste,,,,,Analiciazito@hotmail.com.ar,Neutral
+[345],LUCIANO,PRINCIPI,osimo52@hotmail.com,,,,,,,,,,Neutral
+"[143, 502]",Pablo,Ramirez,pabloangelramirez@gmail.com,541140299666,,,,,,,,,Neutral
+"[498, 712]",Pablo,Gural,pablogural@gmail.com,542304372119,,,,,,,,,Neutral
+[716],Gerardo,Otero,palanganos@gmail.com,5491131192248,,,,,,,,,Neutral
+[544],Patricia,Liliana Godoy,patricia.godoy2501@gmail.com,5491130578889,,,,,,,,,Neutral
+"[179, 202]",SABRINA,BELEN MARTINEZ,patricia_durso@hotmail.com,541153747987,,,,,,,,,Neutral
+[704],paula,layus,paula.layus@gmail.com,541122681396,,,,,,,,,Neutral
+[280],Paulina,Pereyra Dávila,paulina96ppd@gmail.com,5492245510386,,,,,,,,,Neutral
+[366],Paula,Maselli,paumaselli@yahoo.com.ar,541156697389,,,,,,,,,Neutral
+[668],Pablo,Cichinelli,pcichinelli@hotmail.com,5491153274425,,,,,,,,,Neutral
+[546],Evelyn,Piquard,piquardevelynmicaela@gmail.com,5491162594193,,,,,,,,,Neutral
+[426],Pony,Muñoz,ponymunoz83@gmail.com,,,,,,,,,,Neutral
+[352],SILVANA,PRODAN,prosilv@hotmal.com,541166251846,,,,,,,,,Neutral
+[344],Jonathan,Emanuel Reartes,prospero7@outlook.com,1131201893,,,,,,,,,Neutral
+[196],Martin,Quinteros,quinterosmartin@gmail.com,,,,,,,,,,Neutral
+[136],Martha,Cueto,quiquecastro73@hotmail.com,5492921470459,17338252,catamarca 2890 entre calles garay y castelli,Mar del Plata Buenos Aires,,,,,,Neutral
+[616],Ramiro,Joaquin Fontanella Fontanella,ramirofontanella86@gmail.com,5492996728899,,,,,,,,,Neutral
+"[448, 464, 475, 479, 483]",RAMIRO,ANDRES MANINI Manini,ramiromanini@gmail.com,5491157930276,,,,,,,,,Neutral
+[334],Aeon,RA,rapido833@gmail.com,,,,,,,,,,Neutral
+[320],,reclamos_sc@whirlpool.com,reclamos_sc@whirlpool.com,,38243390,ISLAS MALVINAS S/N,SAN MIGUEL DE TUCUMAN,,,,,,Neutral
+[486],Reinaldo,Antonio Fabaro Ruiz,reinaldo.fabaro@claro.com.ar,5491154126672,,,,,,,,,Neutral
+[160],Casa,Luis Chemes Santa Fe Peatonal,responsablepeatonal@chemesweb.com.ar,5493425376457,26564782,LA RIOJA 3265 entre Francia y Saavedra,SANTA FE,,,,,,Neutral
+[606],AGUSTINA,REVELLO REVELLO,revelloagustina@gmail.com,5492227478560,,,,,,,,,Neutral
+[145],Carolina,Rico,rico_carolina@hotmail.com,,18363808,CALLE 523 1395 e/ 8 y 9 (casi 9),LA PLATA,,,,,,Neutral
+[69],Mario,Riener,riener@iname.com,5491167919209,,,,,,,,,Neutral
+[551],Roaldo,Casanova Casanova,roaldocasanova@colegiodelsolar.edu,5491163099856,,,,,,,,,Neutral
+[386],ROBERTO,ALEJANDRO CARRO,robertoalejandro700@gmail.com,5492215391651,,,,,,,,,Neutral
+"[119, 122]",Rodrigo,Oviedo,rodridante122@gmail.com,5492235698643,,,,,,,,,Neutral
+"[471, 737]",Rodrigo,Rodrigo,rodrigo.montiel@accelone.com,5491168320138,,,,,,,,,Neutral
+[369],Rodrigo,Del,rodrigodelcastillo@yahoo.com,,,,,,,,,,Neutral
+[576],,Romina,romi.lagos.rsl@gmail.com,5491135664974,,,Tortuguitas,541135664974,,,,,Neutral
+"[407, 413]",Romina,Lagos,romina_lagos@whirlpool.com,5491135664974,,,,,,,,,Neutral
+[637],Rossana,Galeano Benitez Benitez,rossanagaleano90@gmail.com,5491166527483,,,,,,,,,Neutral
+[124],ROXANA,Di Corrado,roxanafederal@gmail.com,5491150229857,,,,,,,,541161587031,Neutral
+[530],Ruben,Elias Mendez Marmolejo Marmolejo,ruben_mendez@live.com.ar,5491121746918,,,,,,,,,Neutral
+[382],Miriam,Saglimbeni,saglimbenimiriam@hotmail.com,5493816423828,,,,,,,,,Neutral
+[28],,sales@anankafasteners.com,sales@anankafasteners.com,,,,,,,,,,Neutral
+[199],alina,gisela sanchez,sanchez_alina_gisela@hotmail.com,,,,,,,,,,Neutral
+[234],MARCELA,CASANOVA,sanroqueperez@hotmail.com,542227413546,30709756067,,Roque Pérez,2227610000,,,,,Neutral
+[526],Sebastian,Romani Romani,sebastian.e.romani@jpmchase.com,5491121716444,,,,,,,,,Neutral
+[134],Sebastian,Pisoni,sebastianpisoni@hotmail.com,5491157411471,23710197,VICTOR HUGO 5278 PB E/SEGUNDO SOMBRA - GAUCHO CRUZ,VILLA BOSH,,,,,,Neutral
+"[490, 735]",ROMINA,NOEMI SOLIS,sebauro@hotmail.com,542215544545,,,,542215544545,,,,,Neutral
+[191],NOEMI,ARIAS,servclientes@monteshermanos.com.ar,,23803239,BARRIO LIBERTAD CALLE VIRGILIO DE BRITO 785,AGUARAY SALTA,,,,,,Neutral
+[151],Sergio,Walter Ferrero,sferrero_lp@yahoo.com,2334442039,24595891,DR ALFREDO PALACIOS  1730,Eduardo Castex,,,,,,Neutral
+[505],Silvina,Sitta,silvinasitta@gmail.com,,,,,,,,,,Neutral
+[430],,Silvina,silvinazil@yahoo.com.ar,53260,,,,,,,,,Neutral
+[245],Silvana,Zamudio,silza77@yahoo.com.ar,,26034332,Aconcagua,Bella Vista Buenos Aires,,,,,,Neutral
+[556],Sofia,Galermes Galermes,sofigalermes@gmail.com,5491163717717,,,,,,,,,Neutral
+[473],Sofia,Valbuena,sofivalbu@gmail.com,,,,,,,,,,Neutral
+[428],,Sofía,sofivalbu@gmail.con,5492974082838,37068930,Maggi n*989,General Belgrano,,,,,,Neutral
+[144],So,Galarzza,sogalarzza5@gmail.com,5491169626014,,,,,,,,,Neutral
+[367],Alejandro,S.⭐️⭐️⭐️??,solodujina@gmail.com,56950621161,35156726,AV JUAN B JUSTO 4075,CAP FEDERA,,,,,,Neutral
+[507],Sonia,Cruz,sonia_lsg@hotmail.com,5491158355755,,,,,,,,,Neutral
+[743],,Janusas,tincho_janu@hotmail.com,541140814316,,,,,,,,,Neutral
+[207],AGUSTÍN,OSCAR GONZÁLEZ ARZAC,totoarzac@hotmail.com,542215418820,,,,,,,,,Neutral
+[148],,udemy-business@udemy.com,udemy-business@udemy.com,,,,,,,,,,Neutral
+"[216, 281, 291, 293, 436, 438, 447, 451, 583]",Daniela,Castro,undefined,5491138864316,,,,,,,,,Neutral
+[613],Valeria,Lamelas Lamelas,vale22182@gmail.com,5492255411280,,,,,,,,,Neutral
+[404],VALERIA,LAZZARA,valelazz@hotmail.com,5492216060403,,,,,,,,,Neutral
+[379],Vane,5491164726384,vaneviziolo@gmail.com,1164726384,24127642,Av. Santa Fe 2833,CABA,,,,,,Neutral
+[673],VICTOR,ASOREY CRESPO,vasorey1958@gmail.com,5491154818300,,,,,,,,,Neutral
+[356],Veronica,cassinerio,vcassinerio@hotmail.com,5491154518400,25106603,AV J D Peron 3279,Valentín Alsina,1160617052,,,,,Neutral
+[220],,ventas@ofishop.com,ventas@ofishop.com,,,,,,,,,,Neutral
+[626],Sara,Patricia Yapura,veril81@hotmail.com,5491132406612,,,,,,,,,Neutral
+"[219, 362]",Veronica,Claudia Furvasser,vfurvasser@directgroup.com.ar,,27382433,,,,,,,,Neutral
+[105],Maria,Victoria Pesiri,vickypesiri@hotmail.com,5493424777811,,,,,,,,,Neutral
+[266],VKAMINSKY25,Kaminsky,vivianak25@outlook.com,1153274456,27169750683,,CABA,,,,,,Neutral
+"[699, 732, 740]",FERMIN,VOLPE,volpefermin@yahoo.com.ar,542923485386,,,,5492923485386,,,,,Neutral
+[485],WALDEMAR,DICKAU,waldemar_dickau@hotmail.com,5493735443006,25132306,Esquina Belgrano y Ayacucho s/n referencia casa con Estudio Jurídico,San Bernardo,,,,,,Neutral
+[228],Walter,Soiza,waltersoiza@gmail.com,,31343739,aristiles Sacristi 1999 B° Talar del lago 2 - Lote 499,GENERAL PACHECO,,,,,,Neutral
+[377],Sabrina,Walther,walthersabrina08@gmail.com,,,,,,,,,,Neutral
+[104],Yamila,elizabeth vizitiu,yamilaelizabethvizitiu95@gmail.com,,,,,,,,,,Neutral
+[582],Yanela,Toledo,yane_toledo@hotmail.com,5491167632779,,,,,,,,,Neutral
+[326],,Yerimen,yeriacosta878@gmail.com,,,,,,,,,,Neutral
+[101],Jorge,5491125404993,yorg_ag@hotmail.com,1125404993,24685768,Franklin 1529 Entre las Tunas y Castagna,Villa Tesei  Hurlingham cp 1688,,,,,,Neutral
+[40],Osvaldo,Ferrero,,,32306776,,,,,,,,Negativo
+[346],JAVIER,PAEZ,,5493515915953,3515915953,,,,,,,,Neutral
+[10],Marcela,Silvina Lovino,,,,,,,,,,,Neutral
+[20],Miguel,perez,,,,,,,,,,,Negativo
+[21],Rondal,Anabel,,5492646023959,,,,,,,,,Neutral
+[35],,[Sin Contacto],,,,,,,,,,,Neutral
+[36],,voneichart,,,,,,,,,,,Negativo
+[41],,yosoynacha,,,,,,,,,,,Neutral
+[44],,diazdebrito,,,,,,,,,,,Neutral
+[50],Belkis,Rosa Vivas,,,,,,,,,,,Neutral
+[107],,hernan,,541151131924,,,,,,,,,Neutral
+[115],Pablo,Schneider,,,,,,,,,,,Negativo
+[116],,[Sin Contacto],,,,,,,,,,,Neutral
+[121],NORMA,ESTELA SOLORZA,,5492994204890,,,,,,,,,Neutral
+[123],NORMA,ESTELA SOLORZA,,5492994204890,,,,,,,,,Neutral
+[135],,[Sin Contacto],,,,,,,,,,,Neutral
+[137],,[Sin Contacto],,3482314170,,,,,,,,,Neutral
+[139],,[Sin Contacto],,,,,,,,,,,Neutral
+[140],,[Sin Contacto],,379154772717,,,,,,,,,Neutral
+[149],,[Sin Contacto],,1148220994,,,,,,,,,Neutral
+[159],,[Sin Contacto],,2614682961,,,,,,,,,Neutral
+[181],,[Sin Contacto],,3621546999933,,,,,,,,,Neutral
+[183],PASERA,S.A.,,5493364422575,,,,,,,,,Neutral
+[184],,[Sin Contacto],,1131460483,,,,,,,,,Neutral
+[186],PASERA,S.A.,,5493364422575,,,,,,,,,Neutral
+[187],PASERA,S.A.,,5493364422575,,,,,,,,,Neutral
+[194],,sonia,,543515942372,,,,,,,,,Neutral
+[198],,[Sin Contacto],,,,,,,,,,,Neutral
+[201],,[Sin Contacto],,1153497870,,,,,,,,,Neutral
+[203],,[Sin Contacto],,,,,,,,,,,Neutral
+[205],,[Sin Contacto],,,,,,,,,,,Neutral
+[206],,[Sin Contacto],,,,,,,,,,,Neutral
+[210],,fransisco,,542254405574,,,,,,,,,Neutral
+[222],,[Sin Contacto],,,,,,,,,,,Neutral
+[224],,[Sin Contacto],,,,,,,,,,,Neutral
+[225],,susana,,541168071775,,,,,,,,,Neutral
+[227],,[Sin Contacto],,,,,,,,,,,Neutral
+[242],,lucianamehring,,,,,,,,,,,Neutral
+[244],,[Sin Contacto],,5492234940723,,,,,,,,,Neutral
+[249],,[Sin Contacto],,,,,,,,,,,Neutral
+[251],,[Sin Contacto],,1142558845,,,,,,,,,Neutral
+[278],,[Sin Contacto],,2473469254,,,,,,,,,Neutral
+[292],,gustavo,,541139211310,,,,,,,,,Neutral
+[296],,[Sin Contacto],,1149754559,,,,,,,,,Neutral
+[297],Duran,Andrea,,5491150112605,,,,,,,,,Neutral
+[298],Graciela,Zanut,,5493425379427,,,,,,,,,Neutral
+[301],Marcela,Silvina Lovino,,,,,,,,,,,Neutral
+[304],,[Sin Contacto],,,,,,,,,,,Neutral
+[305],Von,Zafiro,,,,,,,,,,,Neutral
+[306],,Susana,,1159782404,,,,,,,,,Neutral
+[308],,Susana,,1159782404,,,,,,,,,Neutral
+[313],,dariofarha,,,,,,,,,,,Positivo
+[315],SEBASTIAN,SCHIJNAN,,1531829772,,,,,,,,,Neutral
+[321],,[Sin Contacto],,,,,,,,,,,Neutral
+[335],,[Sin Contacto],,,,,,,,,,,Neutral
+[340],,[Sin Contacto],,,,,,,,,,,Neutral
+[351],,[Sin Contacto],,,,,,,,,,,Neutral
+[364],,[Sin Contacto],,1122705054,,,,,,,,,Neutral
+[372],,[Sin Contacto],,,,,,,,,,,Neutral
+[374],,[Sin Contacto],,54903516784378,,,,,,,,,Neutral
+[383],patricia,castek,,549284587620,,,,,,,,,Neutral
+[395],,[Sin Contacto],,,,,,,,,,,Neutral
+[396],,[Sin Contacto],,1550951448,,,,,,,,,Neutral
+[405],,[Sin Contacto],,,,,,,,,,,Neutral
+[409],Silvia,Susana Amado,,549112346659301,,,,,,,,,Neutral
+[410],Silvia,Susana Amado,,549112346659301,,,,,,,,,Neutral
+[412],,mn__20,,,,,,,,,,,Neutral
+[416],SILVANA,SACCONE,,1562373901,,,,,,,,,Neutral
+[437],Natalia,Romero,,54903537671848,,,,,,,,,Neutral
+[453],,jimenagaya,,,,,,,,,,,Neutral
+[458],,jimenagaya,,,,,,,,,,,Neutral
+[462],,[Sin Contacto],,1131460483,,,,,,,,,Neutral
+[465],,[Sin Contacto],,,,,,,,,,,Neutral
+[477],Nicolas,Thibaud,,54901159438728,,,,,,,,,Neutral
+[491],,[Sin Contacto],,,,,,,,,,,Neutral
+[492],,[Sin Contacto],,,,,,,,,,,Neutral
+[500],Wise,Sofi,,5493517532020,,,,,,,,,Neutral
+[501],,dellorean.fc,,,,,,,,,,,Positivo
+[509],NOELIA,CORSIGLIA,,5491121571480,,,,,,,,,Neutral
+[510],daniel,rusiani,,5491160319024,,,,,,,,,Neutral
+[512],natalia,daniela garcia,,5491139117262,,,,,,,,,Neutral
+[513],MELISSA,CALABRESE,,5491130689479,,,,,,,,,Neutral
+[514],MARIA,LUZ YACCUZZI,,5493624308992,,,,,,,,,Neutral
+[516],marina,fabro,,5491160557803,,,,,,,,,Neutral
+[517],christian,Giani,,5491139144804,,,,,,,,,Neutral
+[518],PAULA,BLANCO,,5491134997552,,,,,,,,,Neutral
+[519],Maria,Karin Cuell,,5493834543960,,,,,,,,,Neutral
+[521],KAREN,ANDREA FERNANDEZ OSORIO,,5491160562988,,,,,,,,,Neutral
+[522],Federico,luis Monarca,,5491140444287,,,,,,,,,Neutral
+[524],CYNTHIA,ROMANO,,5491136929614,,,,,,,,,Neutral
+[525],Leonardo,Quinteros,,5491161042388,,,,,,,,,Neutral
+[528],Mariano,Cettour,,5491140743082,,,,,,,,,Neutral
+[529],NICOLAS,PERTIERRA,,5491138127952,,,,,,,,,Neutral
+[531],Carolina,Gattei,,5491161607730,,,,,,,,,Neutral
+[533],Martin,Alejandro Janusas,,5491140814316,,,,,,,,,Neutral
+[534],LUCAS,ARENAS,,5491144113509,,,,,,,,,Neutral
+[538],Micaela,Molho,,5491162021212,,,,,,,,,Neutral
+[540],DEBORA,LAFERTE,,5491153194619,,,,,,,,,Neutral
+[548],Jessica,Soledad Caceres,,5491162646057,,,,,,,,,Neutral
+[549],alejandro,girardotti,,5491141962091,,,,,,,,,Neutral
+[553],ana,maria romano,,5491162755818,,,,,,,,,Neutral
+[554],PATRICIO,GIMENEZ CASTELLI,,5491144030770,,,,,,,,,Neutral
+[555],JESICA,GISELLE SANZ,,5491167597650,,,,,,,,,Neutral
+[558],SUSANA,ATELMAN,,5491162777879,,,,,,,,,Neutral
+[560],Herberto,Robinson,,5491144165230,,,,,,,,,Neutral
+[563],Sebastian,Mendizabal,,5491164048501,,,,,,,,,Neutral
+[565],RICARDO,MIGUEL SANCLEMENTE,,5491144252572,,,,,,,,,Neutral
+[569],MARCELO,F. NIEBIESKI,,5491144750568,,,,,,,,,Neutral
+[571],fernando,buconic,,5491164548143,,,,,,,,,Neutral
+[573],mabel,edith Cataldo,,5491166602627,,,,,,,,,Neutral
+[575],Graciela,Andrea Ferraro,,5491149494089,,,,,,,,,Neutral
+[578],Pablo,fernandez,,5491165062107,,,,,,,,,Neutral
+[579],Cesar,Duran,,5491121898530,,,,,,,,,Neutral
+[581],Rosana,Sardano,,5491150258945,,,,,,,,,Neutral
+[587],Karina,Gonzalez,,5491150439341,,,,,,,,,Neutral
+[589],Patricio,Martinez,,5491123012437,,,,,,,,,Neutral
+[590],Lucas,Candreva,,5491166517673,,,,,,,,,Neutral
+[592],Laura,Peretti,,5491150495295,,,,,,,,,Neutral
+[595],Emanuel,sebastian Papi,,5491123874405,,,,,,,,,Neutral
+[596],Marina,Segabache,,5491150642046,,,,,,,,,Neutral
+[598],Damian,Guerrero,,5491124530478,,,,,,,,,Neutral
+[599],Tomas,Casaretto,,5491151061771,,,,,,,,,Neutral
+[601],YESICA,EMILCE RODRIGUEZ,,5491127258489,,,,,,,,,Neutral
+[605],Matias,Pirovano Varela,,5491151650832,,,,,,,,,Neutral
+[607],Yamila,Rando,,5491130261807,,,,,,,,,Neutral
+[609],ALFREDO,OSCAR LOPEZ,,5491151774202,,,,,,,,,Neutral
+[610],Matias,Pablo Mincheff,,5491130398972,,,,,,,,,Neutral
+[612],Paola,Gladys Torres,,5491151809056,,,,,,,,,Neutral
+[614],Luis,Maria Jordan,,5491130630293,,,,,,,,,Neutral
+[617],Daniel,Galvan,,5491131168699,,,,,,,,,Neutral
+[618],Victoria,Marafetti,,5491152204870,,,,,,,,,Neutral
+[620],Julio,Cesar Cerezo Aquino,,5491131264685,,,,,,,,,Neutral
+[622],florencia,Diaz Altamirano,,5491153136347,,,,,,,,,Neutral
+[623],daniela,bonaventure,,5491131651733,,,,,,,,,Neutral
+[625],Lucas,Bellati,,5491153273165,,,,,,,,,Neutral
+[628],Oscar,Eduardo Piris,,5491154733593,,,,,,,,,Neutral
+[629],Milton,Cogut,,5491134618971,,,,,,,,,Neutral
+[630],Claudia,Eiris,,5491155736066,,,,,,,,,Neutral
+[631],Bibiana,Mercado,,5491134620202,,,,,,,,,Neutral
+[632],Claudio,Eduardo Pizarro,,5491155829041,,,,,,,,,Neutral
+[633],pablo,coco,,5491155856989,,,,,,,,,Neutral
+[634],Noelia,Benue,,5491156076942,,,,,,,,,Neutral
+[635],Lucas,Candreva,,5491166517673,,,,,,,,,Neutral
+[636],Alvaro,Martin Blanco,,5491158593337,,,,,,,,,Neutral
+[641],Cristian,Castillo,,5491158785888,,,,,,,,,Neutral
+[642],Claudio,cerutti,,5491166709174,,,,,,,,,Neutral
+[644],Susana,Norma Tabo,,5491159073270,,,,,,,,,Neutral
+[646],JUAN,RODOLFO CAMBREA,,5491167064400,,,,,,,,,Neutral
+[647],mirta,isabel JUAREZ,,5491159493495,,,,,,,,,Neutral
+[649],Maria,Jose Stegmann,,5491167147864,,,,,,,,,Neutral
+[650],Gonzalo,Cuadros,,5491141499811,,,,,,,,,Neutral
+[651],Raquel,Torrezan Pinto da Silva,,5491159636280,,,,,,,,,Neutral
+[652],german,moises,,5491168597666,,,,,,,,,Neutral
+[654],gabriel,bravo,,5491159888956,,,,,,,,,Neutral
+[656],Celeste,Ramos,,5491168828181,,,,,,,,,Neutral
+[657],Nicolas,Ivanissevich,,5491159905599,,,,,,,,,Neutral
+[659],Claudio,Baigorria,,5491170342493,,,,,,,,,Neutral
+[661],Dario,Alberto Bacigaluppi,,5491160267100,,,,,,,,,Neutral
+[663],Danilo,Zecchin,,5492214408045,,,,,,,,,Neutral
+[667],Gaston,Ibarra,,5492236850638,,,,,,,,,Neutral
+[669],DIEGO,PEREYRA,,5492241499818,,,,,,,,,Neutral
+[670],Bibiana,Mercado,,5491134620202,,,,,,,,,Neutral
+[672],VALERIA,pozzo,,5492268516354,,,,,,,,,Neutral
+[674],ALEJO,CALCAGNO,,5491135228811,,,,,,,,,Neutral
+[677],Erik,Cartes Beisel,,5491135597283,,,,,,,,,Neutral
+[678],Leticia,Nasisi,,5492615557380,,,,,,,,,Neutral
+[680],VANESA,ARMENI,,5491135851177,,,,,,,,,Neutral
+[683],Maria,Agustina Yakas,,5491136297984,,,,,,,,,Neutral
+[685],Matias,Basile,,5492954233991,,,,,,,,,Neutral
+[687],HECTOR,OMAR Carrillo,,5493487226550,,,,,,,,,Neutral
+[688],Juan,Pablo Manchado,,5491136982994,,,,,,,,,Neutral
+[689],Ariel,Alexis Amarillo,,5493487656255,,,,,,,,,Neutral
+[691],Alejandro,Flores,,5493515329662,,,,,,,,,Neutral
+[694],Juan,Pablo Manchado,,5491136982994,,,,,,,,,Neutral
+[695],veonica,puszko,,5491138297017,,,,,,,,,Neutral
+[696],Sergio,Lavagna,,5491138625481,,,,,,,,,Neutral
+[713],,Patricia,,543516619608,,,,,,,,,Neutral
+[719],,[Sin Contacto],,,,,,,,,,,Neutral
+[727],,[Sin Contacto],,,,,,,,,,,Neutral
+[746],,[Sin Contacto],,,,,,,,,,,Neutral
