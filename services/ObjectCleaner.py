@@ -96,5 +96,5 @@ class ObjectCleaner:
         for key, value in dic.items():
             df[key] = df[key].astype(str)
             df[key] = df[key].apply(lambda x: x.replace(x, x if x not in value else value[x]))
-        return None
+        return df
     
