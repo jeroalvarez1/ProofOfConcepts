@@ -87,3 +87,14 @@ class ObjectCleaner:
             result_df = ToolsObject.convertColumToString(result_df, col_name) # Convierte todas las columnas a tipo string
 
         return result_df # Devuelve el DataFrame combinado
+    
+    # result[id_value] = result[id_value].astype(str)
+    # result[id_value] = result[id_value].apply(lambda x: x.replace('[', '').replace(']', '').replace('"', ''))
+    # result[id_value] = result[id_value].apply(lambda x: "[" + x + "]")
+    
+    def traductions(self, df, dic = {'sentimiento': {'Positivo': 'Promotor', 'Neutral': 'Neutral', 'Negativo': 'Detractor'}}):
+        for key, value in dic.items():
+            df[key] = df[key].astype(str)
+            df[key] = df[key].apply(lambda x: x.replace(x, x if x not in value else value[x]))
+        return None
+    
